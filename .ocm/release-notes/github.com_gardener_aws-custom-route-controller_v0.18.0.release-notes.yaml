@@ -1,0 +1,14 @@
+ocm:
+  component_name: github.com/gardener/aws-custom-route-controller
+  component_version: v0.18.0
+release_notes:
+- audience: user
+  author:
+    hostname: github.com
+    type: githubUser
+    username: DockToFuture
+  category: feature
+  contents: Harden route reconciliation against untrusted node and cloud-tag input.
+  mimetype: text/markdown
+  reference: '[#640](https://github.com/gardener/aws-custom-route-controller/pull/640)'
+  type: standard
